@@ -1,0 +1,7 @@
+{
+    "model_path": "CompVis/stable-diffusion-v1-4",
+    "enable_ui": true,
+    "enable_multiple_formats": true,
+    "enable_image_merge": true,
+    "enable_image_edit": true
+}
